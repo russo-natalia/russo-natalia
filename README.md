@@ -1,4 +1,4 @@
-👋 Olá, me chamo Natália Russo. Sou estudante do primeiro semestre de Sistemas da Informação na São Paulo Tech School.
+👋 Olá, me chamo Natália Russo. Sou estudante do segundo semestre de Sistemas da Informação na São Paulo Tech School.
 
 Caso queira entrar em contato: natalia.russo@sptech.school
 
